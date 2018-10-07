@@ -1,0 +1,10 @@
+Modified directions
+
+First, use chmod +x command to make the script executable.
+
+then ./install.sh will run it
+
+As an extra step, while still in the installation path, you may use 
+sudo cp install.sh /home/pi/RetroPie/retropiemenu/
+
+to permanently affix the script to the menu, eliminating the need to SSH in 
